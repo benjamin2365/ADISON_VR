@@ -8,7 +8,7 @@ Marzipano Tool, available at http://www.marzipano.net.
 Usage
 -----
 
-The main application file is `app-files/index.html`. Many browsers have issues
+The main application file is `ADISON TYPE C/index.html`. Many browsers have issues
 when using `file://` URLs. Therefore, to properly view the application it is
 necessary to use a web server.
 
@@ -16,7 +16,7 @@ necessary to use a web server.
 Deployment
 ----------
 
-To deploy the application, upload the contents of the `app-files` folder into
+To deploy the application, upload the contents of the `ADISON TYPE C` folder into
 a hosting service.
 
 
